@@ -7,8 +7,4 @@ View Imgur media as slideshows in a clean, fast client. Also allows you to view 
 ## Usage
 Load up any Imgur album or image and the program runs automatically.
 
-Click the image or press the up or down key on the keyboard to show or hide details.
-
-Press the arrows to the side of the screen or press the left or right arrow keys to flip through the album.
-
 To view the images in the comments of a Reddit thread, press the "Slideshow" button beneath the original post.
