@@ -1,5 +1,5 @@
 # Imgur Slideshow
-View Imgur media as slideshows in a clean, fast client. Also allows you to view all the images in a Reddit thread's comments as an album!
+View Imgur media as slideshows in a clean, fast client. Also allows you to view all the images in a Reddit thread's comments as an album.
 ## Installation
 1. Install GreaseMonkey or Tampermonkey depending on your browser. Click [here](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox, [here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Chrome, and [here](https://www.microsoft.com/en-US/store/p/tampermonkey/9nblggh5162s?rtc=1) for Microsoft Edge.
 2. Install the [script on GreasyFork](https://greasyfork.org/en/scripts/26477-slideshow).
